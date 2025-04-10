@@ -62,10 +62,15 @@
         // }
         const audio = new Audio('sound/sound.mp3');
 
+        // Khi người dùng click bất kỳ đâu trên trang
         document.addEventListener('click', () => {
-            audio.play().catch((err) => {
-                console.log('Không thể phát nhạc:', err);
-            });
+            audio.play()
+                .then(() => {
+                    console.log("Nhạc đã phát.");
+                })
+                .catch((err) => {
+                    console.log("Không thể phát nhạc:", err);
+                });
         }, { once: true });
     </script>
 </body>
