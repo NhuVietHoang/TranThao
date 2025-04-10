@@ -9,7 +9,7 @@ tuy mình gặp và quen có bị vội vàng và hoang dã :)) nhưng mà nếu
     btnYes: 'làm bạn liên thiên thôi :((',
     btnNo: 'cho a cơ hội',
     question: 'Vậy là anh chỉ là người biết e rồi đi như người bth,em có thể cho a lý do để anh biết tại sao ko phải anh không',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho anh ',
     reply: 'Làm bạn em vui mò quen đi em nói cho á vui cả ngày',
     mess: 'Anh hiểu mà :((',
     messDesc: 'cần người trò chuyện cứ nhắn a nhé :))',
