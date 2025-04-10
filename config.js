@@ -1,17 +1,18 @@
 const CONFIG = {
-    titleWeb: "Cho mình bé",
-    introTitle: 'Gủi vợ nhá :))',
-    introDesc: ` Từ cái ngày mưa gặp em ở thư viện cho em mượn chiếc ô a đã vô tình đưa cả trái tim mình cho em rồi :)), nếu có thể hãy mở lòng với anh nhé`,
+    titleWeb: "♥ Trần` Thảo ♥",
+    introTitle: 'Gủi Iem, Bé, Cô, Trần Tổng nhá :))',
+    introDesc: ` Mới quen nhau hơn một ngày mà anh cứ có cảm giác như biết em từ... hôm qua rồi ií :)) .Tuy a đẹp trai và lùn nhưng được cái anh già, đúng gu iem chưaa :)) ???
+tuy mình gặp và quen có bị vội vàng và hoang dã :)) nhưng mà nếu em cho phép, anh muốn tìm hiểu em một cách từ tốn, chân thành, và có tâm như cái cách iem lên thực đơn dinh dưỡng đấy 😌`,
     btnIntro: '^^ Dạaaa ^^',
-    title: 'Thời gian quen nhau chưa lâu 🥰',
-    desc: 'Nhưng mà anh nghĩ em cũng có chút cảm tình với anh đúng không (đố em trả lời được không đấy :)) 🥰 ',
-    btnYes: 'Dạ đúng ạ <33',
-    btnNo: 'Không nha :3',
-    question: 'Đúng là anh đẹp trai thật :)) nên em nghĩ sao 1 buổi phớt đết ơ tương lai gần ạ',
+    title: 'Bây giờ iem muốn chuyện mình như nào,',
+    desc: 'Iem chọn đii, nghĩ kĩ vào :)) ',
+    btnYes: 'làm bạn liên thiên thôi :((',
+    btnNo: 'cho a cơ hội',
+    question: 'Vậy là anh chỉ là người biết e rồi đi như người bth,em có thể cho a lý do để anh biết tại sao ko phải anh không',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Chắc chắn rồi  chồng yêu owiii, em cũng mong lắm ajaaaa :))',
-    mess: 'Anh biết mà 🥰. Hạ hạ 😘😘',
-    messDesc: 'Có gì đết đủng in bốc anh ở đây ạ',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/hoangnv_112000?igsh=eXpkcWV5NjNrbG54&utm_source=qr'
+    reply: 'Làm bạn em vui mò quen đi em nói cho á vui cả ngày',
+    mess: 'Anh hiểu mà :((',
+    messDesc: 'cần người trò chuyện cứ nhắn a nhé :))',
+    btnAccept: 'Okiiiii',
+    messLink: 'https://www.facebook.com/messages/e2ee/t/24055543844091725'
 }
