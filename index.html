@@ -14,10 +14,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
-<body>
+<body onload="loadSound()">
     <audio controls autoplay style="display: none;">
         <source src="sound/sound.mp3" type="audio/mpeg">
-    </audio>
+        Your browser does not support the audio element.
+      </audio>  
     <div class="wrapper">
         <!-- Preloader -->
         <div id="preloader">
@@ -49,10 +50,10 @@
     <script src="./js/main.js"></script>
 
     <script>
-        // function loadSound() {
-        //     var audio = new Audio('sound/sound.mp3');
-        //     audio.play();
-        // }
+        function loadSound() {
+            var audio = new Audio('sound/sound.mp3');
+            audio.play();
+        }
     </script>
 </body>
 
